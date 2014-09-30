@@ -1,0 +1,87 @@
+<PG ID="C7388CCE-7E7A-4DB2-A6AC-AB4201920AF7" Type="0" UsesTemplatePage="0" TemplatePageID="00000000-0000-0000-0000-100000000001" Nm="Page1" BgClr="ffffff" BgTparent="0" BgPicName="" DefFoc="00000000-0000-0000-0000-100000000001" SldEffect="0" SldEase="0" Blr="0" ShwStatusBar="0" EnableTabBar="0" LockOrientation="0" PageOrientation="0" IsTemplatePage="0" IsSplashScreen="0" ShwNavigationBar="0" ShwActionBar="0" TouchEnabled="1">
+	<EDGE X="0" Y="0" W="640" H="1136" />
+	<POS Pos="3" SMode="32" />
+	<BODY>
+		<CONTAINER ID="4FF892E1-B58C-4010-876E-00D8DD367BEB" Nm="Container1" Vsb="1" TouchEnabled="1" AutoSize="0">
+			<LCT X="0d" Y="0d" W="29448d" H="29448d" Z="0" Anc="3" LockAutoSize="0" LockAutoPosition="0" />
+			<Layout LayoutType="2" LayoutOrientation="0" LayoutAlignment="0" LayoutHorizontalGap="0" LayoutVerticalGap="0" />
+			<STYLE BrClr="313031" BrW="1" BgTparent="1" BgClr="eff3ef" />
+			<ITEMS>
+				<PIC ID="C277ADE1-7E7F-4A38-ADCB-7D000A3F97BC" Nm="Image1" Vsb="1" Alpha="100" TouchEnabled="1">
+					<LCT X="0%" Y="0%" W="334%" H="334%" Z="0" Anc="3" LockAutoSize="0" LockAutoPosition="0" />
+					<POS Pos="15" SMode="2" EnableZoom="0" EnableScroll="0" EnableCache="0" />
+					<DATA>
+						<PRM Nm="Bind" Val="resources://default_pagebg.png" />
+					</DATA>
+				</PIC>
+				<PIC ID="7194A293-98BD-4861-865F-6B3F808678A2" Nm="CopyofImage1" Vsb="1" Alpha="100" TouchEnabled="1">
+					<LCT X="334%" Y="0%" W="334%" H="334%" Z="0" Anc="3" LockAutoSize="0" LockAutoPosition="0" />
+					<POS Pos="15" SMode="2" EnableZoom="0" EnableScroll="0" EnableCache="0" />
+					<DATA>
+						<PRM Nm="Bind" Val="resources://Default.png" />
+					</DATA>
+				</PIC>
+				<PIC ID="480D4E47-03C5-4290-82C2-117E66EDCD23" Nm="Copy2ofImage1" Vsb="1" Alpha="100" TouchEnabled="1">
+					<LCT X="0%" Y="334%" W="334%" H="334%" Z="0" Anc="3" LockAutoSize="0" LockAutoPosition="0" />
+					<POS Pos="15" SMode="2" EnableZoom="0" EnableScroll="0" EnableCache="0" />
+					<DATA>
+						<PRM Nm="Bind" Val="resources://default_pagebg.png" />
+					</DATA>
+				</PIC>
+				<PIC ID="C59C77F9-2257-46C7-9C40-0A8A9F229B10" Nm="Copy3ofImage1" Vsb="1" Alpha="100" TouchEnabled="1">
+					<LCT X="334%" Y="334%" W="334%" H="332%" Z="0" Anc="3" LockAutoSize="0" LockAutoPosition="0" />
+					<POS Pos="15" SMode="2" EnableZoom="0" EnableScroll="0" EnableCache="0" />
+					<DATA>
+						<PRM Nm="Bind" Val="resources://Default.png" />
+					</DATA>
+				</PIC>
+				<PIC ID="06151A57-E75D-4FE4-BCFE-B1BC2AF6F546" Nm="Copy4ofImage1" Vsb="1" Alpha="100" TouchEnabled="1">
+					<LCT X="0%" Y="668%" W="334%" H="332%" Z="0" Anc="3" LockAutoSize="0" LockAutoPosition="0" />
+					<POS Pos="15" SMode="2" EnableZoom="0" EnableScroll="0" EnableCache="0" />
+					<DATA>
+						<PRM Nm="Bind" Val="resources://default_pagebg.png" />
+					</DATA>
+				</PIC>
+				<PIC ID="0EA4EC5C-FBC7-49F8-A72F-E02A96957AB7" Nm="Copy5ofImage1" Vsb="1" Alpha="100" TouchEnabled="1">
+					<LCT X="334%" Y="668%" W="334%" H="332%" Z="0" Anc="3" LockAutoSize="0" LockAutoPosition="0" />
+					<POS Pos="15" SMode="2" EnableZoom="0" EnableScroll="0" EnableCache="0" />
+					<DATA>
+						<PRM Nm="Bind" Val="resources://Default.png" />
+					</DATA>
+				</PIC>
+				<PIC ID="903D7DFA-6D74-47C7-B9A2-A9F64146B0EA" Nm="Copy6ofImage1" Vsb="1" Alpha="100" TouchEnabled="1">
+					<LCT X="0%" Y="1000%" W="334%" H="334%" Z="0" Anc="3" LockAutoSize="0" LockAutoPosition="0" />
+					<POS Pos="15" SMode="2" EnableZoom="0" EnableScroll="0" EnableCache="0" />
+					<DATA>
+						<PRM Nm="Bind" Val="resources://default_pagebg.png" />
+					</DATA>
+				</PIC>
+				<PIC ID="40920FBB-24DF-413D-B2FF-80462CF97F46" Nm="Copy7ofImage1" Vsb="1" Alpha="100" TouchEnabled="1">
+					<LCT X="334%" Y="1000%" W="334%" H="334%" Z="0" Anc="3" LockAutoSize="0" LockAutoPosition="0" />
+					<POS Pos="15" SMode="2" EnableZoom="0" EnableScroll="0" EnableCache="0" />
+					<DATA>
+						<PRM Nm="Bind" Val="resources://Default.png" />
+					</DATA>
+				</PIC>
+				<PIC ID="E9EA32AD-EBEC-4291-8EDD-2EF5EEF667C5" Nm="Copy8ofImage1" Vsb="1" Alpha="100" TouchEnabled="1">
+					<LCT X="0%" Y="1334%" W="334%" H="334%" Z="0" Anc="3" LockAutoSize="0" LockAutoPosition="0" />
+					<POS Pos="15" SMode="2" EnableZoom="0" EnableScroll="0" EnableCache="0" />
+					<DATA>
+						<PRM Nm="Bind" Val="resources://default_pagebg.png" />
+					</DATA>
+				</PIC>
+			</ITEMS>
+		</CONTAINER>
+		<CANVAS ID="66DDAAA4-77AB-48BF-A7E1-E83367726259" Nm="Canvas1" Vsb="1" TouchEnabled="1" LoopPeriod="50" LoopEnabled="1">
+			<LCT X="0d" Y="0d" W="29448d" H="29448d" Z="0" Anc="3" />
+			<ONTOUCH script="Page1_Canvas1_OnTouch(e);" />
+			<ONTOUCHENDED script="Page1_Canvas1_OnTouchEnded(e);" />
+			<ONTOUCHMOVE script="Page1_Canvas1_OnTouchMove(e);" />
+			<ONDRAW script="Page1_Canvas1_OnDraw(e);" />
+		</CANVAS>
+	</BODY>
+	<EVENTS>
+		<ONSHOW script="Page1_Self_OnShow(e);" />
+		<ONKEYP script="Page1_Self_OnKeyPress(e);" />
+	</EVENTS>
+</PG>
